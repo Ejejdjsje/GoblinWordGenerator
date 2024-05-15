@@ -1,4 +1,5 @@
-<p align="center">
+- Python 3.0 or later.
+- pip3 (sudo apt-get install python3-pip) align="center">
   <img src="https://raw.githubusercontent.com/UndeadSec/GoblinWordGenerator/master/goblin.png">  
 </p>
 
@@ -42,4 +43,4 @@ python3 goblin.py
 ```
 
 ### SCREENSHOT
-![Shot](https://github.com/UndeadSec/GoblinWordGenerator/blob/master/sc.png)
+![Shot](https://github.com/UndeadSec/GoblinWordGenerator/blob/master/sc.png)(https://github.com/UndeadSec/GoblinWordGenerator/blob/master/sc.
